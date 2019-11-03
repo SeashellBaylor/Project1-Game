@@ -1,9 +1,15 @@
 >Project 1.0.0 Upload!
 
-'*'->Mine
+>'*'->Mine
 
-'O'->Coin
+>'O'->Coin
 
-'P'->Life
+>'P'->Life
 
-'#'->Wall
+>'#'->Wall
+
+>Please correction, you have uploaded Dev-c++!
+
+>Have a good time!
+
+                                                 ————SeashellBaylor
